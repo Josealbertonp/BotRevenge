@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: botrevenge
+    env: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    envVars:
+      - key: DISCORD_TOKEN
+        sync: false
+      - key: AUDIT_CHANNEL_NAME
+        value: 🔐╺╸auditoria
