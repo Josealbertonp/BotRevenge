@@ -35,7 +35,7 @@ Um bot Discord avançado para monitoramento de auditoria em tempo real, com dete
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/BotRevenge.git
+git clone https://github.com/Josealbertonp/BotRevenge.git
 cd BotRevenge
 ```
 
